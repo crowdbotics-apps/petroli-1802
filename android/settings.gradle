@@ -1,0 +1,3 @@
+rootProject.name = 'petroli_1802'
+
+include ':app'
